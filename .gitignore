@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.next/
+.vinext/
+.wrangler/
+.env*
+*.tsbuildinfo
+*.zip
+npm-debug.log*
